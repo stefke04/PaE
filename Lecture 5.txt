@@ -1,0 +1,1322 @@
+(speaking in foreign language)
+- Since we're at the next week of our course,
+I thought it's a good time to check in with you guys,
+whether you have any questions
+about where the course is organized,
+what you're supposed to be studying, learning here,
+the exam, was it related to you guys
+about the exam structure yet?
+- Yes, in the first lecture.
+- In the first lecture, it was already.
+We can also come back to this point later on
+from the course, at the end of the course,
+I will go through the advance again
+and then use some examples from each session
+of what sort of questions can come up,
+short and long questions or answer questions.
+Okay, so feel free, also if you have any suggestions,
+topics that you particularly would be interested
+in discussing or different ways of organizing the lectures,
+they're all very welcome, also feel free to write to me,
+come to me after class, talk to me about ideas that you have.
+It's always, as long as we're not done with the course,
+there's always space to change things around the world,
+to introduce some elements that could be more useful for you.
+Okay, so then taking stock a little bit
+or reminding ourselves of what is going on here,
+especially now that we're in the middle of perhaps
+the most abstract, the most historical,
+and perhaps for some of you a little bit boring part
+of the course where we're trying to familiarize ourselves
+with classical theories, other theories of ethics
+and look at some examples, contemporary examples
+of these views.
+Today, we'll also be talking about two historical figures,
+Jeremy Bentham and John Stuart Mill,
+classics, or the founding fathers of utilitarianism,
+and in the second part of the course,
+he was a very contemporary figure,
+or I would say very old, Peter Singer,
+a free political philosopher,
+I think he's both employed in Australia
+and in Princeton in the United States,
+but who is probably the most public face
+of utilitarianism or consequentialism today,
+and we will look at his view on global ethics,
+global poverty eradication and what it has to do
+with utilitarianism, or how utilitarianism can be mounted
+in supporting the idea of global poverty eradication.
+But just to say a few words of why we're doing all of this
+and why this might be useful to you.
+In Plato's Apologies, Socrates, when he was asked
+about what is his role, why is he doing all his question
+while he's trying to educate the public
+and typically coming up with very controversial views
+that went against the conventional morality of his time,
+he said that he's not responsible
+for the public consequences of his teaching.
+His task is really to stimulate the public.
+He wanted people to think for themselves
+instead of just thinking the way their time
+expected them to be, or how public religion
+expected people to follow, and indeed shake them out
+of their conventional ways of thinking.
+And he said it was not his role to tell people what to do
+and follow up on the actual policies
+that they put into practice.
+Now, the way in which we think about this idea
+of what this means for public ethics or moral philosophy,
+it has this double role because it allows us
+to reflect on our contemporary institutions, right?
+So the more we learn about different principles,
+different frameworks of morality,
+the more we are able to go out there in the world,
+look at a public policy or a public policy argument,
+and recognize some of the principles that are being used
+in favor of supporting that view,
+perhaps even in the institutional mission statement.
+Think about the World Health Organization.
+You can commonly find, for example, principles of utility,
+principles of increasing the good or the happiness,
+or in this case, the well-being of human beings
+as the greatest good of humanity.
+You can recognize these things,
+and it allows us actually to reflect
+on a variety of issues of our times,
+the war, climate change, the ethics of AI.
+What about populism today and the rise of the power line?
+How can we understand what is going on around us?
+And what philosophy tries to do
+is sort of make sense of this reality by giving you concepts,
+giving you principles, and giving you arguments
+that can combine what could result
+for an impure premises into coherent conclusions.
+So that's sort of one way we understand
+the role of philosophy today.
+There's also a second way a lot of people
+understand philosophy, and that has to do
+with ethical orientation.
+And especially if you look at the history
+of ethical theories or the history of philosophy,
+a lot of times what is going on,
+indeed in this sense it sort of taps
+into this classical orientation of Plato or Socrates
+through whom he's expressed his philosophical ideas,
+is that there's something that we've gotten used to,
+certain ways of thinking, or conventional ways
+of thinking about morality and ethics
+that might be religiously motivated,
+that might be motivated by public schooling
+and public education, or the most pervading view we have
+out there, the way sort of the modern influencers,
+political influencers, and agenda setters
+are talking to us today.
+They're the ones who are sort of setting the tone
+of our ethical, political morality.
+And what we often find is, and today will be no different,
+that many of the great philosophical theories
+have been invented in opposition
+to conventional moralities of their times.
+And it is often the case that,
+especially when we find ourselves in time of conflict
+or people or societal crises,
+the tongue principles, some ethical views and ideas
+are outdated, they're no longer serving us,
+they're not suitable for our times,
+and they need some reorientation or rearticulation,
+and perhaps we can tap into those original ideas,
+but try to apply them or reformulate them
+in a way that's more suitable for our morality.
+We will also have an example of this question today,
+but sort of more generally,
+think about the way in which today,
+when you hear the word liberalism in the public realm,
+it is often associated with a liberal political party.
+Many countries have a different version of this.
+And often case, people who offer themselves as liberals
+in the public realm are great proponents
+of economic freedom, the sanctity of private property,
+and somehow they end up justifying, for example,
+unlimited accumulation of the wealthy, right?
+And therefore perhaps unlimited inequalities
+in society that are more permissible.
+Now, it's interesting that they call themselves liberals
+because the figures who we're going to study today
+are all liberals as well.
+In fact, they're the classical liberals.
+They're the starting point for liberal ideals
+and liberal thinking,
+and they actually have a very different idea
+about what public policy should be about,
+what are fundamental values or ultimate truths,
+moral truths about our world.
+And I hope you will recognize the difference
+between the two of them.
+If not, feel free to come back to it and ask.
+Indeed, utilitarianism, or the broader school
+that we're going to be talking about,
+of which utilitarianism is a subunit, is consequentialism.
+So consequentialism, we discussed social contact theory.
+Today, our task is to sort of get
+some of the main characteristics
+and, towards the end of the class,
+be able to reason, as a utilitarian,
+when you often make difficult decisions
+in personal or public love.
+So consequentialism is quite well-known
+for certain basic assumptions.
+The first idea is that we are all governed
+by a clean measure,
+and this is such a basic human fact
+or human experience, right?
+Nobody can escape this, and everybody is affected by it.
+And because of this fundamental fact,
+we thought that any moral, any good moral theory,
+or any good moral system has to take into account, okay?
+So to be based on this fundamental fact
+of a human as capable of feeling pain and pleasure
+as one of the basic characteristics.
+Of course, it doesn't mean that it is only humans
+that feel pain and pleasure.
+Indeed, one of the positive characteristics
+of the way many people think about one of the pros
+of utilitarianism is that it can be extended
+to non-human animals as well,
+or any sentient human that is able to feel pain and pleasure.
+So it can be applicable beyond the human community.
+But let's stick with these basics.
+So then the second point, so the good,
+that we're discussing here of the object,
+or the ethical observation,
+will be pain and pleasure as a starting point.
+And the second thing, very important thing
+to know about consequentialism is indeed it's in the name.
+Look to the consequences of your actions.
+You need to look into the future
+and see where your actions or decision-making result in.
+Look at the results of your actions,
+outcome, consequence of your action,
+and that's going to be somewhere where ethical consideration
+will be glad or that's how we can figure out
+what's the right thing to do.
+Focusing on pain and pleasure
+and kind of looking at the consequences of action.
+Now, the ultimate good in its original formulation
+indeed was pain and pleasure,
+but how utilitarianism advances,
+there are many reformulations, all right?
+Originally, in Bender's theory,
+it was already the idea of happiness.
+And later on, it was formulated as utility.
+Further on, by welfare economists,
+it was turned into welfare.
+And in contemporary discussions,
+it is very often talked as the idea of human well-being,
+more broadly, so welfare, well-being.
+And there's different ways in which you can measure
+those things and different kind of aspects of life
+that you can understand, even within these concepts.
+But just as a very general progression, right?
+You can think about many different things
+that you can compare in the years.
+But whatever you take to be the ultimate good,
+whether it's happiness or welfare,
+it's important that we always ought to promote it.
+And how do we promote it?
+Making sure that we maximize it,
+that there's more of it.
+Indeed, the famous phrase of consequentialism
+is to maximize goodness and this kind of goodness
+in the world, whatever you take to be the measure
+of the good there.
+And with John Stuart Mill's words,
+utilitarianism is really about creating the greatest good
+for the greatest numbers, okay?
+(keyboard clacking)
+And in first sight, this is a straightforward
+is not a requirement, right, what you ought to do.
+Promote the greatest good for the greatest numbers.
+But when you think about it more carefully,
+it does not necessarily mean that you ought
+to change with the men, okay?
+There might be some situations, think about,
+you live in a country where there's no public transportation
+and you try to figure out what would be the most important
+way to promote the happiness or the welfare,
+the well-being of the population,
+you might think that introducing public transportation
+is a very good way of getting mobility.
+It's a fundamental capability of humans.
+A lot of people who cannot afford a car
+are not able to move around.
+They may introduce public transportation
+and thereby, indeed, favoring the many,
+you can create the greatest happiness
+for the greatest numbers.
+But there are many other situations
+where, and this is, I'm already introducing
+a complexity here, where by favoring a few persons
+to whom your decisional policy is going to make
+a huge amount of difference, and it might be the case
+that you can lower the happiness by a very,
+a very small amount of a great many numbers,
+you are still, at the end of the day,
+creating the greatest work for the greatest numbers.
+And one example, actually very recent
+or contemporary example that we could think about
+in this context is after or in the midst
+of the 2015 refugee crisis, many local governments
+ended up, or the only way they could provide
+protection and housing for refugees
+is by opening up the school sports facilities
+or sports centers and creating temporary refugee shelters
+in these very large spaces, right?
+Some of these denasiums, or what they call it here,
+could accommodate hundreds of refugees.
+And of course, right where we're talking about
+perhaps, let's say 100, 200 people, whose lives, right,
+makes a difference to their life or death
+or being able to go home or having to sleep on a tree.
+On the other hand, you had some inconvenience
+for the local population because their children
+didn't have a sports facility where they could
+do their school sports, right?
+They had to go outside or they had to go to some other
+facility, other location, a swimming pool or wherever,
+where they could continue their physical education.
+And this would be one of those cases where you,
+if you think that the difference to those children's lives
+or the inconvenience to the children outside
+that can cost, that we're seeing on one side,
+is comparable, or at least less than the huge difference
+it made to the life of the people who did enjoy
+protection as asylum seekers,
+then you come to the conclusion that utilitarianism
+does not always require to favor men.
+We can favor the view in the case in which it makes
+a major or an incremental difference
+to the inconveniences of the costumer outside.
+And this takes me already to the idea that
+consequentialism or utilitarianism is about
+the kind of ethics where calculation becomes very important.
+We can calculate these things.
+We can, it has a very structured way of reasoning
+and indeed one of Empem's innovations of ethics
+will be that you wanted to bring ethics or morality
+as closest to the scientific method as you can imagine.
+So here's the structure of reasoning.
+I don't think with any decision-making or any policy
+that you're trying to introduce in the society,
+you have to do a list of things
+in order for you to make this consequentialist calculus.
+You take a particular decision or avenue,
+you identify when you look at the consequences of this action,
+identify the intrinsically good,
+that it will lead to, that identify the intrinsically bad
+situations that it will lead to, determine your options
+and for each option that you have,
+let's say you have two choices to make or three or four,
+for each option you're supposed to be determining
+the good and the bad results.
+And actually what you're trying to do
+is you're promoting what they call the opportunity outcome
+which is the difference or the amount of pleasure
+of the pain and sort of plus the pleasures minus the things
+and you're thinking about the balance
+between the good and the bad consequences, okay?
+It's important that in a very simplified scenario
+you're making this calculus in the case of one person
+and it's very interesting because in this case,
+utilitarianism overlaps with another moral theory
+which we haven't been discussing very much
+which is called hedonism.
+Hedonism is essentially the moral theory
+which tells you that what matters morally
+is a person's subjective experience of pleasure and pain
+or happiness and unhappiness, right?
+So if all you care about or all I care about
+is my pleasure and pain as a consequence of my decision,
+then I'm essentially applying the one person version
+of utilitarianism which is hedonism, okay?
+Hedonism is nothing to do with that luxurious lifestyle
+or the contemporary connotation, okay?
+Hedonism is an existing moral theory essentially.
+It's a consequence of this view
+down into the more personal aspects.
+But in most cases, this calculus is going to happen
+at the societal level or some connected level
+in multi-person scenarios, right?
+Where a lot of the problems or the criticisms
+of utilitarianism will come from the difficulties
+that arise when we try to make this calculus
+at a higher level generality in society
+or not yet a more global approach, right?
+Okay, so as I said, we'll discuss
+some of the counting patterns of this view
+and also to show you kind of a little bit
+where the origins of liberalism come from,
+where liberalism comes from,
+and actually how it transformed or changed over time
+and how it has indeed transformed
+by different political and ideological deviations.
+So that Jeremy Anthony, an English political philosopher,
+he was really revolutionary from his time.
+If you look at the date of when he lived,
+clearly, major historical events came out
+in his lifetime, the French Revolution, right?
+That introduced the idea of freedom, equality,
+and paternity into our human consciousness.
+And the new constitution that was born
+in the American continent, or a new country,
+a new constitution, was born with very similar ideas
+to the French Revolution.
+And not surprisingly, Bentham himself
+was a revolutionary of ethics,
+very much sort of keeping up with his time
+and in favor of the, or I would say fundamentally,
+establishing the equality among human beings.
+And indeed, this idea of everyone is to be treated equal
+is perhaps, for us, something we take for granted.
+It was very revolutionary in his times,
+this idea of her technologies.
+But this time, the idea that everybody should count for one
+and everybody deserves equal moral consideration,
+their pain and pleasure, that was the goal, right?
+And we're trying to come up with reforming society
+or changing some of our institutions,
+but we ought to look at, indeed,
+that what are the consequences of this policy
+if we were to consider the pain and the pleasure
+of each and every single person or human being in this.
+Okay, I already mentioned that he took the ultimate good
+to be the balance of pleasure over pain.
+And there was also a version of ethics theory
+that was focusing on happiness,
+but somehow the pleasure and pain version of his theory
+is one that became most common and most influential
+and turned into a theory of utility and utilitarianism.
+Later, well, indeed, it's an ultimate good
+in the sense that he thinks that this is,
+so we're looking for moral principles
+that try to identify the ultimate true fundamental principle
+that cannot be derived from anything else, right?
+But there is sort of no further argument,
+no further justification that ought to be given.
+And indeed, he sort of looks at this very basic
+biological feature of human beings,
+their ability to feel pleasure over pain.
+There's nothing further that needs to be added than that,
+right, it's just something that we feel and it's out there.
+And finally, his conviction was that morality
+has to be based on a current principle.
+It has to be predictable, it has to be calculable, okay?
+In every situation, there has to be sensitive
+of one good answer and we need to know what that is, okay?
+It's not a natural opinion or a taste,
+it shouldn't be unreliable, I think,
+or inconsistent, it shouldn't be based
+on prejudice or corruption.
+I'll tell you a little bit about why he was so fixated
+on these views.
+Well, one of the reasons is that when Benkler was thinking
+about what kind of arguments can I give for my view?
+How can I prove that utilitarianism
+is the true theory of morality, right?
+He wants to say that maximizing utility,
+or this idea of balance, pleasure over pain,
+is the ultimate principle that we should all accept
+and all follow, right?
+He wanted to, as I said, reorient ethical life, right?
+And introduce something new into conventional morality
+and convince people that his fear was indeed
+sort of superior to its alternatives.
+And interestingly, although we consider Benkler
+to be the hounding habit of utilitarianism,
+he didn't really have an argument for his view
+other than negative proof, okay?
+Indeed, this is what we call indirect proof of philosophy,
+so he doesn't really have an argument for utilitarianism,
+but he has an argument of why the alternatives are superior
+or what is wrong with the alternative theories,
+which basically is a game of elimination.
+And once we've eliminated all the other theories,
+then what remains is utilitarianism.
+And then, hey, you know, here's what we are left with,
+so this is what we want to follow.
+Characterizing, but only a bit.
+You might wanna recall also
+that John Rawls's theory of justice,
+the way he reasons through the different moral theories
+in the original position is actually very similar,
+but there, his opponent, or one of his opponents,
+was actually utilitarianism.
+And then now he negates utilitarianism,
+showing why his principles and his theory of fairness
+was the superior.
+I can come back to this in a moment.
+If this wasn't clear enough from the previous lecture,
+we can talk about it a little bit more next week.
+Okay, so here's the indirect proof
+that Penta had for his theory.
+There were two fundamental, old,
+what he thought as outdated, moralities of his time.
+Most of them had something to do
+with sort of religious context,
+especially the principle of us,
+and we'll never say properly,
+and so he reasoned aesthetic,
+to be basically to subject yourself to pain
+in order to have eternal pleasures in afterlife.
+What guarantees that you can go to heaven
+is the fact that we will sort of suffer
+as much as possible with us.
+And this is sort of maximizing,
+basically principle here is maximizing pain.
+And Penta is completely possible.
+How can our principle of morality be maximizing pain
+as long as it's on earth?
+And indeed, there's no really good justification
+that is ever provided by the ascetics,
+the theologist, theologians, religious idealists
+who have had a principle,
+but it has been one of the most widespread principles
+of their times.
+And you think the only justification
+and the point is, and it's interesting
+what he makes of it,
+is that in order for you to get to eternal
+and everlasting happiness,
+you ought to subject yourself to pain still
+in some of the world or in the earth.
+Now, if you think of it,
+and this is the least interesting example
+of the way in which Penta is about it,
+if you think of it carefully
+and you extend the timeline of human life
+and you introduce after life as part of life,
+at the end of the day, it's a principle of utility.
+Because when we include this eternal pleasure,
+your eternal happiness,
+in the past years, at the end of the day,
+your primary goal is to be happy,
+but you're willing to make some sacrifices
+in the short life that we have
+in order to reach eternal happiness, right?
+So, in the darkness of pleasure and pain,
+short time of suffering or infinite happiness,
+at the end of the day, that's also a principle of utility.
+That's why we need the maximum pleasure
+of happiness over pain.
+But that's, of course, not how it was presented
+to people at that time.
+But the more important problem
+that both Penta and those two at milk had
+is these customary moral rules of their times
+that subjected people to enormous amounts
+of suffering and harm and pain,
+sometimes causing death.
+But there were very fundamental problems
+before and very counterintuitive.
+Indeed, one of the critiques that you find on the pamphlets
+that Joss Tordman has written
+was against the suppression of contraception.
+He would say that these ideas came in the 1960s,
+but they were actually only present in their times.
+And he said, well, Mills was actually concluded his,
+or wrote his pamphlet after walking along the path
+and found an abandoned bank of debt on the floor.
+And he said, well, this is where our morality leads to
+in societies that bans contraception
+will inevitably lead to very bad consequences
+that have to do with dangerous abortions of women
+or in order to avoid the shame or exclusional consequences
+in society that they live up to,
+when they're having children out of wedlock,
+they actually, it's easier for them to vandalize child
+than to face the social consequences
+of this very, very severe and risky morality.
+So there was something problematic about this whole
+ascetic morality in their time.
+Let's sort of broadly be the idea
+that there's no argument for it
+and it has very harmful consequences, okay.
+Now, the other competing theory of Bentonstein
+that he used as this negative proof for his own view
+is the principle of sympathy or empathy.
+And according to this theory,
+you were supposed to make ethical decisions
+based on your sympathy or empathy to the subject
+or to the individual's views.
+So say that you're torn between a huge deal
+that you feel you have to go to a family
+or a different family.
+Say there is your sister's birthday party
+at the very same time when your family is moving houses
+and you have already promised to help you go home, okay.
+Maybe for some of you it's an easy dilemma,
+but just to use this as an example,
+we are weighing two things here
+without having any kind of schedule or measure
+that houses decide what to do, right.
+It's almost like a gut reaction
+that on the basis of what you're supposed to decide.
+One, there's no principle.
+There is no theorem that can guide you in doing that.
+Some decision making formula, like utilitarianism,
+is giving us, right, it's completely left
+to your own intuition.
+There's no kind of external statement
+from which we can examine whether there is someone
+who might like to know more, right.
+Whether you decide to go to your sister's birthday
+or help your friend.
+Nobody can really question you
+on whether you did the right thing.
+And indeed, therefore, there is no accountability
+to any of the things that are going on.
+And indeed, for Benjamin, he says,
+"We need actually a new philosophy.
+"We have to do it the way it is always needed.
+"We need ethics that is not involved,
+"that we can count on,
+"that will help us make better decisions."
+And just like science, it kind of gives us a formula,
+mathematical, almost mathematical calculus,
+and of arriving to the correct answer.
+We should be able to have arguments
+on what we want to do, even in a single matter,
+should be forced to make a decision
+and act much more specifically, much more complexly.
+That's how we sort of get to Benjamin's theory.
+Now, of course, many kind of criticisms
+have been leveled against.
+And when a lot of ethical debates came after him,
+one question has to do with the idea
+of how general or broad is the ultimate good,
+the pleasure, being to the extent that,
+if you think about it carefully,
+what if people simply took pleasure
+in somebody else's pain or misfortune, right?
+Is that going to be a pleasure that is calculated,
+or does that count?
+Or should we distinguish good pleasures from bad pleasures,
+but then on the basis of what, right?
+If it's really about pleasure in pain,
+then somebody who takes pleasure
+in somebody's hurting themselves
+or breaking their leg by falling,
+and somebody who takes pleasure in that misfortune,
+then that would be added in the calculus, right?
+But that is problematic, right?
+And there are sort of all sorts of discussions
+between Mill and Benjamin where all pleasures
+and pains are exactly the same.
+Or can we say that there are higher levels of pleasure
+than lower levels of pleasure?
+Let's say we're talking about elemental pleasures
+that have to do with sexual drawing
+or some other basic human pride.
+I just thought that, and this is a weird expression
+because you will lose,
+what's the problem with the original formulation
+of focusing on pleasure and pain,
+that it's a philosophy suitable for pigs,
+by which humans, animals,
+because they're also only capable of pleasure and pain,
+and wanted to think about a more complex way of,
+as if there was sort of a hierarchy of pleasures
+where certain pleasures were more valuable
+or more important than others.
+And the classical example that they used was,
+you know, there's a difference between
+people taking pleasure in arms wrestling each other
+over the table, right?
+And they would talk for something like that.
+And the kind of pleasure that you derive
+by playing the piano or going to an opera
+or something like that.
+Now, perhaps today you might think that
+this is an elitist theory of something problematic
+or anti-democratic about trying to ram
+all kinds of other peoples.
+Different ways of experiencing life
+and experiencing pleasure.
+But this was indeed one of the debates that
+basically what kind of pleasure
+should we take into account?
+And does it all weigh in how we think?
+Now, the other way of thinking about it, right?
+One says that the pleasure is too broad and too general
+and includes too many things that shouldn't be
+in an ethical theory.
+But the other thing is that it's too narrow, right?
+If we're thinking about ethics,
+isn't that something more noble
+than just these bodily measures and things?
+How can we kind of reduce morality
+to these very simple human biological facts, right?
+And indeed, when you think about the fact that
+at least a lot of people think that
+many of the activities in human life that are worthwhile,
+many of the endeavors or the challenges
+or life commands that we embark upon
+are worthwhile in particular because they are very, very hard.
+They are hard when you're on the road and you're carrying it out.
+You're studying to be a world-class piano player,
+chess player, brain surgeon, you name it,
+whatever is your goal.
+Some people say that the really worthwhile,
+valuable goods in life are actually deeply difficult,
+painful, and sometimes you have to go through
+a lot of suffering in order to get to the end,
+which will, perhaps, then at the end of the day,
+will be satisfied with your life satisfaction.
+Will it really come in?
+But if you measure the pain and the pleasure from the moment.
+Yeah, some, and this is,
+I can only give you some examples from my field,
+but think about John Rawls's theory of justice.
+It took him 30 years to theorize
+and arrive to write his apocalyptic page book.
+And I'm sure that debating that and bringing that
+to the world, as I told you,
+really revolutionized American political philosophy.
+But what kind of work and investment
+and hard work and effort went into that?
+It's very lonely, it comes with a lot of doubt,
+self-doubt, writing, thinking,
+criticizing your own ideas.
+It's really not an easy road.
+But perhaps what came out of it,
+and what he left for the world,
+makes it all the world's fault.
+But indeed, it doesn't make sense
+if we're trying to characterize it
+in terms of the balance of pleasure or pain.
+Okay, a few more things before we move on
+to the contemporary theory.
+Well, the other big debate in utilitarianism
+has shown many of you have heard of it,
+especially if you've studied economics,
+especially welfare economics at some point in your careers,
+right, the difficulty that this theory causes,
+especially because it aims at this precise scientific method
+is how exactly should we measure pain and pleasure?
+What are the relevant factors to weigh in?
+And Bentham already, in his original theory,
+has considered several factors that he thought should matter.
+And some of them are more obvious.
+The others might become very questionable
+or controversial after his writing.
+So intensity of the pain, right?
+How severe is the pain that you're feeling?
+Or the duration of it, are we talking about
+the 10 seconds they will shock to your bodies?
+Or, I don't know, two days of torture, right?
+They're very different, both in intensity and in duration.
+There's also another thing to consider.
+It should also matter to us for the certainty
+that today many of you have used the term,
+the probability with which pain and pleasure would occur.
+So because we're always assessing outcomes,
+there's an amount of uncertainty
+about how probabilities would occur.
+And finally, he talked about remoteness,
+that he meant remoteness both in terms of distance,
+space, and in terms of time.
+In 150 days that we will get into the southern part
+of the question of the day, and the second,
+when we're into seeing outcomes in itself
+is an important issue, but he thinks that distance
+should not matter to our obligations to others.
+And therefore, our duty is to become citizens
+of people very far away from us,
+should be the same, and we're really showing
+in terms of how much sacrifice we can do
+in order to achieve this safety and well-acceptance.
+So really, it's a controversial question,
+should distance in space matter
+when it comes to your obligations to others?
+Distance in time, right?
+What about pleasures that will occur in the future?
+A very common problem in this area
+is that we tend to have a theory around this phenomenon
+called discounting the future, and it's a problem.
+The fact that when we think about,
+and one of the areas in which this becomes very visible
+in policy making is the way policy makers treat
+consequences of climate change, right?
+What are the effects of today's decisions?
+One, two, three, and infinite numbers
+of generations down the line, okay?
+Does their happiness or welfare
+matter the same as ours today?
+And the tendency is really that we tend to discount.
+People's happiness, as if, just because of the fact
+that we're going to live further away in the future,
+there will be consequences.
+This is problematic for utilitarianism.
+It starts from the end of the day.
+Each and every person's happiness
+should become more and more legitimate for the same.
+And there's various ways in which you can discount
+the interest of the day for people who are still
+to be born in the future, right?
+It's very different if they already exist,
+then if they have never been born, and so forth.
+Okay, the next question has to do with the idea
+that in order to make utilitarianism so much for that,
+how do we, what kind of factors are going to matter
+when we try to calculate or measure things?
+Then the other thing is we also need to be able
+to compare different people's different kinds of things.
+So we need a proper scale.
+And in order to be able to compare to people's claims,
+first of all, we need to assign a number
+to their pleasure or pay for their short-care,
+such as utility calculations.
+And then finally, in order to make
+the utilitarian calculus,
+you need to be able to compare two people's
+very different things and pleasure.
+How can you measure two people's different things?
+And pains and pleasures, when they have,
+they can report, for example, their pains and pleasures
+or happiness levels, they're going to report it to you
+under very, very different circumstances.
+Say that you and I both think that we're seven out of 10
+and we're happy in today's world, okay?
+Now, whether, for example,
+what my consequences are, sorry,
+circumstances are and what your circumstances are,
+is going to change of what that number seven
+actually represents.
+Because it could be the place where I am
+really miserable in this world,
+but I actually don't see that in any other possible world
+that it would be much better, right?
+This kind of limited vision of what changes
+are possible in this world.
+And you are already a happy bunny,
+but you, right, you feel really well
+and you're good in today's society,
+but you actually think that you have
+a reach of potential in you.
+So, you're seven out of 10,
+can actually mean a huge level of enthusiasm.
+And my seven can mean, actually,
+being very ecosystemic and growing all day.
+And basically, an example serves to introduce
+the idea of adaptive preferences,
+which is also a very serious form of science
+in welfare economics.
+And it turns out that when you ask people
+in very poor countries about their life satisfaction,
+it ends up being much higher than what you would expect
+based on these subjective measures of well-being
+than when you actually try to construct
+different kinds of objective levels of poverty, right?
+So, on the basis of objective comparisons between countries,
+they would resolve this very low in the ranking,
+but subjective preferences tell us that
+some or many people in
+global south countries, poor countries in the world,
+are relatively happy, actually.
+So, again, gets to this problem of adaptive preferences
+and what exactly we're measuring
+and how are we measuring, what does democracy mean?
+Okay, so, moving on, and before the break,
+I want to tell you something about the second figure,
+students of Ben and John Snow, who continued this theory,
+to some extent, but also tries to improve it and changes it.
+And it is always the case that
+philosopher students try to
+learn a lot and embrace the philosophical frameworks of their
+sort of philosophical fathers or mothers,
+but they end up, and it's a good thing
+when they manage to innovate and change this theory
+or improve the theory for the better,
+and it was exactly the case of Mill.
+In many ways, he was a great sort of
+public promoter of utilitarianism,
+and you might be surprised to hear that he also was
+the first feminist philosopher of our times,
+and indeed one of his very early pamphlets in 1869
+was on the subjection of women.
+And his claim was, again,
+you look at the contemporary morality of the society,
+basically a strongly matriarchal society
+where if a woman were to marry a man,
+it had very severe consequences for her opportunities, okay?
+Mill thought that for a woman,
+marriage effectively meant slavery.
+Women could not vote, they could not take up office,
+they were banned from most professions
+and educational opportunities,
+they could not inherit property,
+they were dependent on their husband,
+they could not do it entirely,
+and he basically offered many arguments
+in order to end the domination and the subjection of women.
+He thought this was very problematic,
+especially if you look at it from an utilitarianist standpoint.
+So in 1869, he gives us basically
+the first feminist argument for women to be liberated
+from the oppressive moral and legal principles of his time.
+And he related utilitarian reasons, he thinks,
+that basically the subjection is detrimental
+to human consciousness,
+no matter which point of view you come from,
+from the point of view of men,
+from the point of view of women,
+and from the point of view of society as a whole, okay?
+So he says, men are yourself, right?
+So you take a look at the consequences of what this means,
+versus if we were to open all education, profession,
+opportunities for women,
+that's the comparison that we're making,
+the current situation versus the liberation of women.
+And he says, out of the current situation,
+where men are accepted to be the sole voice leader of a family,
+they're actually made worse off.
+And he makes the argument that men become more elegant
+in their time, so to say,
+and they're going to make very conservative launches,
+simply because they have to be the sole voice leader,
+and you cannot, in today's society,
+you cannot really become an artist,
+you have to become a lawyer,
+you cannot become political actors,
+you have to become a doctor, right?
+In order for you to be able to guarantee 100% guarantee,
+because the entire family depends on you, okay?
+I think it's a very modern argument
+that someone might today use why patriarchy is bad for men, right?
+Now, from the point of view of the host,
+so men are unhappier, or less happy, less well off.
+[ Inaudible ]
+Then the second argument that he said,
+what happens when you ban women
+from entering educational institutions,
+and you ban women from entering professions,
+that can be very prohibitive to become certain professions.
+What happens is that you lose half of the talent of society, right?
+Half of humanity are women, and then that means half of the brains
+and talent capacities are practically banned or excluded
+from contributing to the societal good, okay?
+The second argument is that basic waste, half of humanity is talent.
+So definitely we're going to be worse off, right?
+And kind of new, which is the argument that most people would use
+under past or contemporary circumstances, that of course,
+women are worse off, and that they're less happy,
+and they're separately constrained.
+And again, half of humanity is constrained and coerced,
+and half of humanity's happiness is much lower than good, okay?
+So, it looks like, and there's very few arguments
+that have been offered by the proponents of patriarchy,
+proponents of the subjection of women, or why this is good, right?
+But even if they have some good arguments, clearly we have sort
+of an overwhelming majority.
+Basically, men are worse off, women are worse off,
+and the collective is worse off, then it seems
+that we have an ultimate proof or an argument
+of why utilitarianism requires deliberation.
+And I sort of used -- yes, please.
+[ Inaudible ]
+I think that essentially, at this time,
+it would be very similar to what you can find today, which has to do
+with the nature of human beings, okay?
+The nature of human beings by which --
+so one argument you can find in Aristotle that has to do
+with the higher soul of men versus women, more and more,
+the matter, men are the brain and the men are the body.
+But you could see the iterations
+of medieval theologian arguments where it falls
+into the natural character of human beings,
+is that the men are the leaders and the women are subjected
+to real decisions.
+And I think that the argument hasn't actually changed that much.
+I'm curious why you might ask it of looking
+at what would be the benefit.
+>> Yes, because I'm just imagining what that would be
+like in that situation and basically the person --
+wouldn't that look like an argument against co-patriarch?
+>> It wasn't popular in these times.
+He was a member of Parliament and he wasn't the most popular public
+figure of his time.
+So these are very radical ideas.
+I mean, he thought the novels of James Holmes were more
+or less contemporaries of his time.
+[ Inaudible ]
+There wasn't any need to prove that, you know,
+the traditional [inaudible]
+[ Inaudible ]
+No, no, because you see the terms of, like the terms of debate.
+So you wouldn't need the [inaudible]
+that can actually prove
+that with the traditional family model where all of them are gone.
+[ Inaudible ]
+Yes, of course.
+[ Inaudible ]
+Okay, there are many other -- so this is one example of how he tried
+to prove that if individuals have more freedom in the world,
+then they will be happy or they will be all better off.
+So this big political book on liberty has indeed become one
+of the foundations of classical liberal thought and the idea
+of individual liberties,
+individual rights have originated in some of his thoughts.
+Looking at other arguments in his time, for example,
+he argued against the death penalty, which was also a similar structure
+to the public against the subjection of women, where he had to sort
+of think about the ways in which improvements to well-being
+or improvements to human happiness can occur in many different levels
+if we were to abolish the death penalty or capital punishment.
+Again, he was not very popular in his time.
+Perhaps today we understand his reasoning more.
+For the sake of time, I'll invite you to take a look at that section
+on your own sort of difficult argument in the text.
+I just wanted to say one more thing, which is an interesting and also
+to show that Mill himself was not perfect
+and there are also critical aspects of his theory.
+So he wanted to improve Bentham's proof.
+He said there has to be some ultimate proof
+of what is valuable, what is fundamental about utility
+and utilitarianism, and you find a paragraph in the text
+where he says, "Well, it's clear to see on the basis
+of making an analogy with sight or hearing."
+So what makes the theory of utilitarianism valuable is you can
+basically reason by analogy, right?
+You don't need this elimination of other arguments.
+You can actually have an analogy argument for utilitarianism,
+and he says if you think about what it means
+to prove something being true, right, the proof of the fact
+that you see something is that it's visible, right?
+So we can use these analogies of sight and hearing.
+The proof of visibility is that people see it
+and there is no proof.
+The proof of audibility is that people can hear it.
+And again, there is no further proof for that now, okay?
+They didn't have the scientific measures and technology
+to prove all these things, right?
+So in their time, this was the only proof.
+And indeed he said the proof of desirability,
+of happiness is that people desire it, okay?
+So the reason why happiness should be the ultimate principle
+of morality is because this isn't people who want.
+This is what people desire.
+So if people desire it, then clearly it is desirable, okay?
+And what ethics try to come up with is indeed
+in some sense the most desirable principle.
+Okay, now this is what we call in philosophy a fallacy
+of reasoning, because we talked about this in the methods class
+at the very beginning.
+Sometimes words can have two different meanings
+and they can lead you to fallacious conclusions
+when you apply your own meaning in the wrong context.
+So here's Jimmy Moore's critique of Mill.
+He says, yeah, the problem is --
+and he was very surprised that Mill himself didn't see this
+when he made the argument, right?
+This was the ultimate proof of utility in terrorism
+but somehow missed this reasoning that desire has two different
+or desirable has two very different meanings,
+although it looks like the same word, right?
+One is that it is capable of being desired.
+And the second meaning is that it ought to be desired
+or it ought to be followed
+because it is indeed the desirable outcome
+from an ethical point of view, right?
+So when you talk about capable of being seen or we're able
+to see something and we're able to desire something,
+that's the first sense of what it means
+for something to be desirable, right?
+But very often in this first sense of being able
+to be desired by human beings, yeah,
+that's true for many different things, right?
+Very harmful things.
+And often we do desire things that harm us
+and that are better for us or better for others.
+So the fact that something is capable
+of being desired does not make it the right object
+of ethics, okay?
+And indeed it sort of points --
+this debate between Mill and Moore --
+points to what is a continuous discussion and debate also
+among welfare economists today, whether when we're trying
+to decide whether we should --
+how we should understand welfare or well-being
+in human societies, what is it that we should compare
+between individuals in terms of an outcome or expected outcome
+of policy designated when people subjectively perceive
+to be their happiness or their pleasure
+or their well-being, satisfaction,
+or that they're actually objectively well,
+objectively better off compared to another scenario, right?
+And this is indeed this problem of subjective
+versus objective well-being is basically playing
+in the deleterious and still today.
+Okay, in order to leave some time for Peter Singer
+and his argument against global poverty,
+I'm going to stop here and give you a ten minute break
+and then I'll see you back at, let's say, 23, okay, 5.23.
+Hopefully you have time to finish the second part.
+[ Speaking in Foreign Language ]
+Okay, once again, it's a good morning.
+Some of the pictures are nice here.
+Some of the views that you might hear could be upsetting.
+[ Speaking in Foreign Language ]
+Oops, sorry.
+[ Speaking in Foreign Language ]
+[ Music ]
+[ Speaking in Foreign Language ]
+>> It's a story that's deeply unsettled millions in China.
+Footage of a two-year-old girl hit by a van and left bleeding
+in the street by passers-by, footage too graphic to be shown.
+The entire accident is caught on camera.
+The driver pauses after hitting the child.
+His back wheels seem resting on her for over a second.
+Within two minutes, three people passed two-year-old Wang Yuhai.
+The first walks around the badly injured toddler completely.
+Others look at her before moving off.
+>> There were other people who walked past Wang Yuhai
+and the second van ran over her leg
+before a street cleaner raised the alarm.
+She was rushed to a hospital where it was too late.
+He died. I wonder how many of you, looking at that,
+said to yourself just now, "I would not have done that.
+I would have stopped to help."
+Raise your hand if that's thought because.
+As I thought, that's most of you.
+And I believe you.
+I'm sure you're right.
+But before you give yourself too much credit, look at this.
+UNICEF reports that in 2011,
+6.9 million children under five die
+from preventable poverty-related diseases.
+UNICEF thinks that's good news, because the gap is steadily coming
+down from 12 million in 1990.
+That is good.
+But still, 6.9 million is 19,000 children dying every day.
+Does it really matter that we're not walking past them on the street?
+Does it really matter that they're far away?
+I don't think it does make a morally relevant difference.
+In fact, if they're not right in front of us,
+in fact, because of their different nationalities or race,
+how does that seem morally relevant to me?
+What is really important is can we reduce that death toll?
+Can we save some of those 19,000 children from dying every day?
+And the answer is, yes, we can.
+Each of us spends money on things that we do not really need.
+You can think what your own habit is, whether it's a new car,
+a vacation, or just something like buying bottled water
+when the water that comes out of the tap is personally safe to drink.
+You could take the money you're spending on those unnecessary things
+and give it to this organisation, the Against Malaria Foundation,
+which would take the money you're given and use it to buy nets like this one,
+to protect children like this one.
+And we know reliably that if we provide nets, they use
+and they reduce the number of children dying from malaria,
+just one of the many preventable diseases
+that are responsible for some of those 19,000 children dying every day.
+Fortunately, more and more people are understanding this idea,
+and the result is a growing movement.
+>> Okay. So, maybe I'll start with a question of what you guys think.
+So, there's two main points that Singh has made, right?
+In the idea whether we have any obligations to help people suffering
+from global poverty or dying or ill from the effects of global poverty,
+his answer is yes, because distance doesn't matter to our own obligation.
+And the second point, sorry, here, he concludes in his article a very,
+very famous sort of by now well-known principle,
+the principle of easy rescue, which says, and indeed,
+it's one of the most dominant utility principle of our time,
+that says if you can easily rescue someone with modest cost to yourself,
+you ought to do it.
+And my question to you guys is what do you think?
+Is there any arguments or objections or agreements,
+disagreements that you have with Singh?
+[ Background Sounds ]
+Yes?
+>> Okay. So, you don't necessarily have to think of it
+as donations of money, but whatever sacrifice you can make,
+if it's acceptable, or even made without, right?
+It's a small cost of spreading the word [inaudible]
+>> I think I forgot to say it,
+but they're being considered like people around you first,
+and then there's like different concentric circles,
+and I agree with that.
+So, if I had just enough money to help my mom versus someone who's
+in Africa, I think personally for me, it'd make more sense to help my mom,
+but I think you're seeing an argument that you don't differentiate
+because you're helping someone regardless, so I kind of disagree with that.
+And another thing is that it's difficult to argue against this,
+but the idea of how effective charity can be, or something like that,
+also brings up a questionable part of his argument, because I think his idea is
+like really idealized, he will give money to charity, and there's 100% effectiveness
+of this person's guarantee to help them, but sometimes that isn't the case,
+and there's no way to definitively prove that, I think.
+>> I think what you're saying is a very big part of the discussion
+and the objection, but my example is a tough test case, because first of all,
+you have to think about how your mother is indeed, as needy as the little child,
+you have to make sure that you stop, and if you really have to make that decision,
+which you will not, you know, want to talk to charity, leave your mom alone,
+or whatever, you know, it's a web site, so you also have to think about how they're doing.
+On the other hand, we're also talking about one of our closest human relations,
+[ Inaudible ]
+>> When you think about, would I sacrifice my mom, or the same child driving,
+[ Inaudible ]
+>> Are you asking about whether you'd sacrifice your own child in the favor of another child?
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
+[ Inaudible ]
